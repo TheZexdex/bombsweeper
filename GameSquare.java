@@ -14,8 +14,6 @@ public abstract class GameSquare extends JButton
 	/** The y co-ordinate of this square. **/
 	protected int yLocation;
 
-	protected boolean thisSquareHasBomb = false;
-
 	/** The GameBoard upon which this GameSquare resides. **/
 	protected GameBoard board;
 
